@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//ahmed-moh21.github.io/React-Quiz/static/css/main.7a2848f7.css",
+    "main.js": "//ahmed-moh21.github.io/React-Quiz/static/js/main.54b608f7.js",
+    "static/js/787.9e90ff23.chunk.js": "//ahmed-moh21.github.io/React-Quiz/static/js/787.9e90ff23.chunk.js",
+    "index.html": "//ahmed-moh21.github.io/React-Quiz/index.html",
+    "main.7a2848f7.css.map": "//ahmed-moh21.github.io/React-Quiz/static/css/main.7a2848f7.css.map",
+    "main.54b608f7.js.map": "//ahmed-moh21.github.io/React-Quiz/static/js/main.54b608f7.js.map",
+    "787.9e90ff23.chunk.js.map": "//ahmed-moh21.github.io/React-Quiz/static/js/787.9e90ff23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a2848f7.css",
+    "static/js/main.54b608f7.js"
+  ]
+}
